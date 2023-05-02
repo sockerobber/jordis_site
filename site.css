@@ -1,9 +1,9 @@
 body {
-    background-color: lightblue;
+    background-color: pink;
   }
   
   h1 {
-    color: white;
+    color: purple;
     text-align: center;
   }
   
@@ -14,5 +14,5 @@ body {
   }
 
 #memory1 {
-    color: pink;
+    color: purple;
 }
